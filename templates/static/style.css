@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+.cover{
+    background: url('/media/background.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
